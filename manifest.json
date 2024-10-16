@@ -1,0 +1,15 @@
+{
+  "name": "QR Code Scanner",
+  "short_name": "QR Scanner",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "Scan QR codes and fetch data from Google Sheets.",
+  "icons": [
+    {
+      "src": "/path/to/icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
